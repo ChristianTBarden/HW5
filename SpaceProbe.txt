@@ -1,0 +1,6 @@
+Space_Probe,Speed,Time
+Voyager1,38000,5
+Voyager2,35000,7
+Pioneer10,32400,9
+CassiniHuygens,69368,11
+HubbleSpaceTelescope,17000,13
